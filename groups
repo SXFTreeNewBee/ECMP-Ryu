@@ -1,0 +1,2 @@
+#!/bin/bash
+ovs-ofctl dump-groups  -O OpenFlow13 $1
